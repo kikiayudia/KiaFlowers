@@ -1,0 +1,219 @@
+body{
+    width: 1440px;
+
+    background: linear-gradient(179.62deg, #E9AFAF -24.84%, #E7AABF 53.61%);
+}
+
+.brand{
+    margin-top: 90px;
+}
+
+.booking{
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.nam{
+    margin-top: 9px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.nam span{
+    margin-left: 150px;
+}
+
+.formdata{
+    margin-left: 140px;
+}
+
+.nama h5{
+    margin-top: 50px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+}
+
+
+.nama-lengkap{
+    box-sizing: border-box;
+    width: 329px;
+    height: 47px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 6px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #2E2E2E;
+    margin-bottom: 30px;
+}
+
+.bukti{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #000000;
+}
+
+.custom-file-input{
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 6px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #2E2E2E;
+    margin-bottom: 30px;
+}
+
+
+
+
+.btn-submit{
+    outline: none;
+    margin-top: 80px;
+    width: 238px;
+    height: 50px;
+    background: #B43D3D;
+    border-radius: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    color: #FFFFFF;
+}
+
+
+.btn-submit:hover{
+    box-shadow: -2px 4px 6px rgba(0, 0, 0, 0.28);
+}
+
+.btn-cancel{
+    box-sizing: border-box;
+    width: 238px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-radius: 8px;
+
+    margin-top: 15px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    color: #000000;
+}
+
+
+.btn-cancel:hover{
+    box-shadow: -2px 4px 6px rgba(0, 0, 0, 0.28);
+}
+
+/* tutup booking */
+
+
+
+/* footer */
+
+
+.footer{
+    padding-left: 100px;
+    padding-bottom: 70px;
+    padding-right: 100px;
+    padding-top: 50px;
+    margin-top: 120px;
+    background: #E2C3CE;
+}
+
+.help{
+    margin-left: 184px;
+}
+
+.shop{
+    margin-left: 114px;
+    margin-right: 184px;
+}
+
+.address{
+    margin-top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.foot-item{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
+
+.foot-link{
+    margin-top: 26px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.flowus{
+    text-align: right;
+}
+
+.wa {
+    padding-left: 70px;
+}
+
+.email{
+    padding-left: 20px;
+}
+
+.foot-link i{
+    font-family: 'fontawesome';
+    font-size: 26px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 55px;
+    background: #E2C3CE;
+    border-top: 1px solid #000000;
+
+}
+
+.copyright h5{
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #151515;
+
+}
+
+/* tutup footer */

@@ -1,0 +1,208 @@
+body{
+    width: 1440px;
+    height: 2196px;
+
+    background: linear-gradient(179.62deg, #E9AFAF -24.84%, #E7AABF 53.61%);
+}
+
+/* navbar */
+
+.nav-icon{
+    font-family: fontawesome;
+    font-size: 34px ;
+}
+
+.nav-icon a{
+    color: #5B4C53;;
+}
+
+.navbar{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.navbar-item a{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+}
+/* tutup navbar */
+
+/* hero section */
+.hero{
+    margin-top: 180px;
+}
+
+.word{
+    margin-top: 4px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.btn-cta{
+    margin-top: 60px;
+    box-sizing: border-box;
+    width: 250px;
+    height: 55px;
+    background: #FFC8DF;
+    border: 1px solid #000000;
+    box-shadow: -4px -5px 0px #000000;
+    border-radius: 8px;
+
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+    transition: all 0.2s ease;
+    margin-bottom: 80px;
+}
+
+.btn-cta:hover{
+    transform: scale(1.1);
+    color: #B84040;
+}
+
+.kiflow{
+    margin-top: 15px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.kiflow span{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.stick i{
+    font-family: fontawesome;
+    font-size: 48px;
+}
+
+.bel{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    color: #000000;
+}
+
+.service{
+    margin-left: 180px;
+}
+
+.original{
+    margin-left: 180px;
+}
+
+.testimo{
+    margin-top: 150px;
+    justify-content: center;
+}
+
+/* tutup hero section */
+
+
+/* footer */
+
+.footer{
+    padding-left: 100px;
+    padding-bottom: 70px;
+    padding-right: 100px;
+    padding-top: 50px;
+    margin-top: 120px;
+    background: #E2C3CE;
+}
+
+.help{
+    margin-left: 184px;
+}
+
+.shop{
+    margin-left: 114px;
+    margin-right: 184px;
+}
+
+.address{
+    margin-top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.foot-item{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
+
+.foot-link{
+    margin-top: 26px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.flowus{
+    text-align: right;
+}
+
+.wa {
+    padding-left: 70px;
+}
+
+.email{
+    padding-left: 20px;
+}
+
+.foot-link i{
+    font-family: 'fontawesome';
+    font-size: 26px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 55px;
+    background: #E2C3CE;
+    border-top: 1px solid #000000;
+
+}
+
+.copyright h5{
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #151515;
+
+}
+
+/* tutup footer */

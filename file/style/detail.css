@@ -1,0 +1,230 @@
+body{
+    width: 1440px;
+
+    background: linear-gradient(179.62deg, #E9AFAF -24.84%, #E7AABF 53.61%);
+}
+
+/* navbar */
+
+.nav-icon{
+    font-family: fontawesome;
+    font-size: 34px ;
+}
+
+.nav-icon a{
+    color: #5B4C53;;
+}
+
+.navbar{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.navbar-item a{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+}
+
+.active{
+    color: white !important;
+}
+/* tutup navbar */
+
+/* hand bouquet */
+.hand-bouquet{
+    margin-top: 160px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.word{
+    margin-left: 38px;
+}
+
+.word h5{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+}
+
+.word p{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    color: #000000;
+}
+
+.btn-order{
+    margin-top: 40px;
+    width: 238px;
+    height: 60px;
+    background: #B43D3D;
+    border-radius: 8px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    color: #FFFFFF;
+}
+
+.btn-order:hover{
+    box-shadow: -2px 4px 6px rgba(0, 0, 0, 0.28);
+}
+
+/* tutup hand bouquet */
+
+/* produk */
+
+.product{
+    margin-top: 60px;
+    margin-left: 100px;
+}
+
+.see{
+    margin-left: 1140px ;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.hed{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #000000;
+}
+
+.grs{
+    width: 1133.09px;
+    height: 0px;
+    border: 1px solid #000000;
+}
+
+.produk{
+    margin-top: 50px;
+}
+
+.pr{
+    margin-left: 55px;
+}
+
+.prbwh{
+    margin-top: 50px;
+    margin-left: 55px;
+}
+
+.prbwh-{
+    margin-top: 50px;
+}
+
+.buy{
+    transition: all 0.2s ease-in-out;
+}
+
+.buy:hover{
+    transform: scale(1.1);
+    filter: drop-shadow(-3px 4px 7px rgba(0, 0, 0, 0.4));
+}
+
+
+/* tutup produk */
+
+
+/* footer */
+
+.footer{
+    padding-left: 100px;
+    padding-bottom: 70px;
+    padding-right: 100px;
+    padding-top: 50px;
+    margin-top: 120px;
+    background: #E2C3CE;
+}
+
+.help{
+    margin-left: 184px;
+}
+
+.shop{
+    margin-left: 114px;
+    margin-right: 184px;
+}
+
+.address{
+    margin-top: 0px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+}
+
+.foot-item{
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: #000000;
+}
+
+.foot-link{
+    margin-top: 26px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #000000;
+
+}
+
+.flowus{
+    text-align: right;
+}
+
+.wa {
+    padding-left: 70px;
+}
+
+.email{
+    padding-left: 20px;
+}
+
+.foot-link i{
+    font-family: 'fontawesome';
+    font-size: 26px;
+}
+
+.copyright{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 55px;
+    background: #E2C3CE;
+    border-top: 1px solid #000000;
+
+}
+
+.copyright h5{
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #151515;
+
+}
+
+/* tutup footer */
